@@ -1,6 +1,6 @@
-====
-HEAT
-====
+========
+SECURITY
+========
 
 -----------------
 Test Requirements
@@ -15,4 +15,4 @@ Subdomains
 .. toctree::
    :maxdepth: 2
 
-   heat_hot_template_suite
+   security_OAM_suite

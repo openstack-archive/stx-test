@@ -13,6 +13,7 @@ For more information about StarlingX, see https://docs.starlingx.io/.
 .. toctree::
    :maxdepth: 2
 
+   gnochi/index
    heat/index
    networking/index
-   gnochi/index
+   security/index
