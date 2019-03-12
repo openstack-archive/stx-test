@@ -17,3 +17,4 @@ For more information about StarlingX, see https://docs.starlingx.io/.
    networking/index
    gnochi/index
    storage/index
+   backup_restore/index
