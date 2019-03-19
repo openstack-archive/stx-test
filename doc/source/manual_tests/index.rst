@@ -23,3 +23,4 @@ For more information about StarlingX, see https://docs.starlingx.io/.
    backup_restore/index
    installation_and_configuration/index
    distributed_cloud/index
+   AIO_simplex/index
