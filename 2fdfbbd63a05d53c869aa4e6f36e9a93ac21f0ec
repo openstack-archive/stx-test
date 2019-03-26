@@ -1,0 +1,9 @@
+Code-Review+2: Juan Carlos Alonso <juan.carlos.alonso@intel.com>
+Code-Review+2: Jose Perez Carranza <jose.perez.carranza@intel.com>
+Workflow+1: Jose Perez Carranza <jose.perez.carranza@intel.com>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Tue, 26 Mar 2019 16:53:13 +0000
+Reviewed-on: https://review.openstack.org/647635
+Project: openstack/stx-test
+Branch: refs/heads/master
