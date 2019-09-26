@@ -1,5 +1,0 @@
-==========
-stx-test
-==========
-
-StarlingX Test
